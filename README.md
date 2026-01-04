@@ -52,4 +52,6 @@ This dashboard is intentionally kept simple and focuses on Power BI visualizatio
 ---
 
 ## Preview
-https://github.com/meyvanranasinghe-creator/Exploring-the-Relationship-Between-Engine-Power-and-Fuel-Efficiency/blob/main/Screenshot%202026-01-05%20002343.png
+
+### Dashboard Overview
+![Dashboard Overview](dashboard_overview.png)
